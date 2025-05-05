@@ -11,17 +11,17 @@
 
       <div class="hidden md:flex gap-6">
         <NuxtLink
-          to="/"
+          to="/projects"
           class="hover:text-gray-600 transition-colors"
           >Projects</NuxtLink
         >
         <NuxtLink
-          to="/"
+          to="/uses"
           class="hover:text-gray-600 transition-colors"
           >Uses</NuxtLink
         >
         <NuxtLink
-          to="/"
+          to="/blog"
           class="hover:text-gray-600 transition-colors"
           >Blog</NuxtLink
         >
@@ -44,17 +44,17 @@
             </SheetHeader>
             <div class="flex flex-col gap-6 mt-8">
               <NuxtLink
-                to="/"
+                to="/projects"
                 class="text-lg hover:text-gray-600 transition-colors px-2 py-1"
                 >Projects</NuxtLink
               >
               <NuxtLink
-                to="/"
+                to="/uses"
                 class="text-lg hover:text-gray-600 transition-colors px-2 py-1"
                 >Uses</NuxtLink
               >
               <NuxtLink
-                to="/"
+                to="/blog"
                 class="text-lg hover:text-gray-600 transition-colors px-2 py-1"
                 >Blog</NuxtLink
               >

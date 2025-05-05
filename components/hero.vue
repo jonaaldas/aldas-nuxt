@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="w-full">
     <NuxtLink
       to="#about"
       class="text-gray-500 text-xs w-full mr-auto px-4 italic"
