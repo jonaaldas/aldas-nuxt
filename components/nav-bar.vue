@@ -58,6 +58,40 @@
                 class="text-lg hover:text-gray-600 transition-colors px-2 py-1"
                 >Blog</NuxtLink
               >
+              <div class="flex gap-4 px-2 py-1">
+                <NuxtLink
+                  to="mailto:j@aldas.dev"
+                  external
+                  class="hover:text-primary"
+                  title="Email">
+                  <Icon name="mdi:envelope" />
+                </NuxtLink>
+                <NuxtLink
+                  title="Resume"
+                  to="https://drive.google.com/file/d/1-_0000000000000000000000000000000000000000/view?usp=sharing"
+                  external
+                  class="hover:text-primary">
+                  <Icon name="mdi:paper" />
+                </NuxtLink>
+                <NuxtLink
+                  external
+                  to="https://github.com/jonaaldas"
+                  class="hover:text-primary">
+                  <Icon name="mdi:github" />
+                </NuxtLink>
+                <NuxtLink
+                  external
+                  to="https://linkedin.com/in/jonaaldas"
+                  class="hover:text-primary">
+                  <Icon name="mdi:linkedin" />
+                </NuxtLink>
+                <NuxtLink
+                  external
+                  to="https://x.com/aldasdev"
+                  class="hover:text-primary">
+                  <Icon name="mdi:twitter" />
+                </NuxtLink>
+              </div>
             </div>
           </SheetContent>
         </Sheet>
