@@ -12,13 +12,9 @@ export default defineNuxtConfig({
     componentDir: './components/ui',
   },
   css: ['~/styles/tailwind.css'],
-  mdc: {
-    highlight: {
-      theme: {
-        dark: 'github-dark',
-        default: 'github-dark',
-        light: 'github-light',
-      },
+  content: {
+    preview: {
+      api: 'https://api.nuxt.studio',
     },
   },
 })
