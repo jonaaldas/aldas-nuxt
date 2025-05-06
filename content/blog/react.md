@@ -1,11 +1,14 @@
 ---
 title: Getting Started with React
-date: 2024-01-15
+date: 2024-01-17T00:00:00.000Z
 slug: getting-started-with-react
-description: A guide to getting started with React, a modern JavaScript framework for building user interfaces.
+description: A guide to getting started with React, a modern JavaScript
+  framework for building user interfaces.
 ---
 
 # Getting Started with React
+
+JUST SOMETIMES I WISH I CAN FLY
 
 Back in 2010, I set a bold goal for myself. I took one of my websites and decided that I wanted to publish over 100 articles on it that year. I decided that by doing this, my goal was to accumulate more than a million readers by the end of the year.
 
