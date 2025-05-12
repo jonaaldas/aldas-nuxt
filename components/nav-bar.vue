@@ -16,14 +16,14 @@
           >Projects</NuxtLink
         >
         <NuxtLink
-          to="/uses"
-          class="hover:text-gray-600 transition-colors"
-          >Uses</NuxtLink
-        >
-        <NuxtLink
           to="/blog"
           class="hover:text-gray-600 transition-colors"
           >Blog</NuxtLink
+        >
+        <NuxtLink
+          to="/uses"
+          class="hover:text-gray-600 transition-colors"
+          >Uses</NuxtLink
         >
       </div>
 
@@ -49,14 +49,14 @@
                 >Projects</NuxtLink
               >
               <NuxtLink
-                to="/uses"
-                class="text-lg hover:text-gray-600 transition-colors px-2 py-1"
-                >Uses</NuxtLink
-              >
-              <NuxtLink
                 to="/blog"
                 class="text-lg hover:text-gray-600 transition-colors px-2 py-1"
                 >Blog</NuxtLink
+              >
+              <NuxtLink
+                to="/uses"
+                class="text-lg hover:text-gray-600 transition-colors px-2 py-1"
+                >Uses</NuxtLink
               >
               <div class="flex gap-4 px-2 py-1">
                 <NuxtLink
